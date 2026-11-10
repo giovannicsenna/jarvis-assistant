@@ -203,3 +203,8 @@ This project is intended to be distributed under the MIT License. See the `LICEN
   <strong>J.A.R.V.I.S.</strong><br>
   <em>Building a smarter way to interact with your computer.</em>
 </p>
+
+
+## Development
+
+The project repository has been connected to Git and GitHub.
